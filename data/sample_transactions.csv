@@ -1,0 +1,789 @@
+transaction_id,date,description,amount,type,category,payment_method
+TXN0001,2025-01-01,Monthly Salary - Company,50557.71,income,Income,NEFT
+TXN0065,2025-01-01,Books & stationery,2636.63,expense,Education,Credit Card
+TXN0004,2025-01-02,Swiggy order - biryani,757.73,expense,Food & Dining,UPI
+TXN0028,2025-01-02,Blinkit grocery delivery,590.91,expense,Groceries,Debit Card
+TXN0048,2025-01-03,Diesel refill,642.33,expense,Transportation,UPI
+TXN0061,2025-01-03,Gym membership,4384.98,expense,Healthcare,Cash
+TXN0010,2025-01-04,Udupi restaurant,220.17,expense,Food & Dining,Debit Card
+TXN0057,2025-01-04,Apollo Pharmacy medicines,4922.41,expense,Healthcare,Credit Card
+TXN0025,2025-01-05,Reliance Fresh,757.19,expense,Groceries,Credit Card
+TXN0027,2025-01-05,Spencer's supermarket,1458.39,expense,Groceries,Cash
+TXN0053,2025-01-05,Local train ticket,559.16,expense,Transportation,Debit Card
+TXN0008,2025-01-06,Food court lunch,939.51,expense,Food & Dining,Debit Card
+TXN0019,2025-01-06,South Indian thali,777.86,expense,Food & Dining,Credit Card
+TXN0009,2025-01-07,Canteen dinner,420.1,expense,Food & Dining,UPI
+TXN0018,2025-01-07,Starbucks coffee,519.8,expense,Food & Dining,UPI
+TXN0023,2025-01-07,Fresh fruits purchase,1156.77,expense,Groceries,Credit Card
+TXN0064,2025-01-07,Books & stationery,7387.49,expense,Education,Net Banking
+TXN0002,2025-01-08,Cashback credited,150.44,income,Income,IMPS
+TXN0049,2025-01-08,Parking fee - mall,1483.12,expense,Transportation,FASTag
+TXN0052,2025-01-08,Petrol - HP Petrol Pump,205.02,expense,Transportation,Debit Card
+TXN0060,2025-01-09,Gym membership,2167.22,expense,Healthcare,UPI
+TXN0036,2025-01-10,Home decor item,6990.04,expense,Shopping,Debit Card
+TXN0020,2025-01-13,Starbucks coffee,296.47,expense,Food & Dining,Credit Card
+TXN0030,2025-01-13,Local kirana store,2208.51,expense,Groceries,Cash
+TXN0046,2025-01-13,Auto rickshaw,1790.98,expense,Transportation,Cash
+TXN0026,2025-01-14,Fresh fruits purchase,2690.44,expense,Groceries,Cash
+TXN0033,2025-01-14,Myntra clothing,1070.11,expense,Shopping,Net Banking
+TXN0056,2025-01-15,Electricity bill - BESCOM,1809.6,expense,Bills & Utilities,Auto-debit
+TXN0024,2025-01-16,Local kirana store,980.4,expense,Groceries,Cash
+TXN0038,2025-01-16,Amazon purchase,4871.77,expense,Shopping,Credit Card
+TXN0041,2025-01-16,BluSmart EV cab,241.56,expense,Transportation,UPI
+TXN0043,2025-01-16,FASTag toll payment,347.13,expense,Transportation,FASTag
+TXN0005,2025-01-17,Street food outing,356.13,expense,Food & Dining,UPI
+TXN0047,2025-01-17,Bus pass renewal,1112.11,expense,Transportation,UPI
+TXN0031,2025-01-18,BigBasket order,1993.17,expense,Groceries,UPI
+TXN0042,2025-01-18,Namma Yatri ride,2445.62,expense,Transportation,FASTag
+TXN0059,2025-01-18,Gym membership,1038.79,expense,Healthcare,UPI
+TXN0062,2025-01-18,Netflix subscription,246.71,expense,Entertainment,Credit Card
+TXN0007,2025-01-19,Starbucks coffee,358.08,expense,Food & Dining,UPI
+TXN0017,2025-01-21,Udupi restaurant,420.21,expense,Food & Dining,Credit Card
+TXN0055,2025-01-22,Gas cylinder booking,558.44,expense,Bills & Utilities,UPI
+TXN0006,2025-01-23,South Indian thali,726.14,expense,Food & Dining,Cash
+TXN0014,2025-01-23,Cafe Coffee Day,743.54,expense,Food & Dining,UPI
+TXN0050,2025-01-23,Auto rickshaw,47.76,expense,Transportation,UPI
+TXN0034,2025-01-24,Meesho order,225.31,expense,Shopping,UPI
+TXN0015,2025-01-25,Local dhaba lunch,834.16,expense,Food & Dining,UPI
+TXN0021,2025-01-25,BigBasket order,1337.7,expense,Groceries,Debit Card
+TXN0032,2025-01-25,Nykaa cosmetics,7101.35,expense,Shopping,UPI
+TXN0035,2025-01-25,Myntra clothing,7780.73,expense,Shopping,Credit Card
+TXN0037,2025-01-25,Myntra clothing,1392.15,expense,Shopping,Credit Card
+TXN0011,2025-01-26,Zomato pizza delivery,772.02,expense,Food & Dining,Cash
+TXN0022,2025-01-26,Zepto quick delivery,2929.77,expense,Groceries,Cash
+TXN0029,2025-01-26,Weekly provisions,2307.83,expense,Groceries,Cash
+TXN0054,2025-01-26,Gas cylinder booking,3181.55,expense,Bills & Utilities,Net Banking
+TXN0058,2025-01-26,1mg online order,3668.25,expense,Healthcare,UPI
+TXN0013,2025-01-27,Street food outing,716.2,expense,Food & Dining,Debit Card
+TXN0016,2025-01-28,McDonald's drive-through,1043.74,expense,Food & Dining,Cash
+TXN0044,2025-01-28,Parking fee - mall,684.69,expense,Transportation,Debit Card
+TXN0063,2025-01-28,Spotify Premium,2786.46,expense,Entertainment,Credit Card
+TXN0003,2025-01-29,South Indian thali,850.84,expense,Food & Dining,UPI
+TXN0039,2025-01-29,Home decor item,7446.97,expense,Shopping,UPI
+TXN0040,2025-01-29,Parking fee - mall,173.08,expense,Transportation,UPI
+TXN0051,2025-01-29,Uber ride to office,595.49,expense,Transportation,Cash
+TXN0012,2025-01-30,Barbeque Nation dinner,699.13,expense,Food & Dining,UPI
+TXN0045,2025-01-30,FASTag toll payment,2411.98,expense,Transportation,FASTag
+TXN0066,2025-02-01,Monthly Salary - Company,51140.52,income,Income,NEFT
+TXN0099,2025-02-01,Myntra clothing,7075.05,expense,Shopping,UPI
+TXN0113,2025-02-01,FASTag toll payment,1780.7,expense,Transportation,FASTag
+TXN0068,2025-02-02,Momo stall,440.44,expense,Food & Dining,UPI
+TXN0069,2025-02-02,Zomato pizza delivery,927.81,expense,Food & Dining,Cash
+TXN0102,2025-02-02,BluSmart EV cab,974.88,expense,Transportation,Debit Card
+TXN0072,2025-02-03,Haldiram's snacks,194.0,expense,Food & Dining,Cash
+TXN0080,2025-02-03,Haldiram's snacks,1127.92,expense,Food & Dining,Debit Card
+TXN0114,2025-02-03,Auto rickshaw,929.63,expense,Transportation,Cash
+TXN0125,2025-02-03,Diagnostic lab test,3134.38,expense,Healthcare,Cash
+TXN0092,2025-02-04,Blinkit grocery delivery,2094.9,expense,Groceries,Debit Card
+TXN0108,2025-02-04,Petrol - HP Petrol Pump,2349.92,expense,Transportation,FASTag
+TXN0076,2025-02-05,Local dhaba lunch,406.86,expense,Food & Dining,Cash
+TXN0084,2025-02-05,Starbucks coffee,1134.04,expense,Food & Dining,UPI
+TXN0119,2025-02-06,ACT Fibernet bill,2773.81,expense,Bills & Utilities,Auto-debit
+TXN0075,2025-02-07,Canteen dinner,1129.48,expense,Food & Dining,Credit Card
+TXN0095,2025-02-07,Electronics - Croma,7211.61,expense,Shopping,Debit Card
+TXN0112,2025-02-07,Petrol - HP Petrol Pump,2251.78,expense,Transportation,UPI
+TXN0127,2025-02-08,Gym membership,219.68,expense,Healthcare,Cash
+TXN0109,2025-02-09,Uber ride to office,1464.06,expense,Transportation,UPI
+TXN0094,2025-02-10,Lifestyle store,1194.08,expense,Shopping,Credit Card
+TXN0096,2025-02-12,Sports gear,5402.08,expense,Shopping,Net Banking
+TXN0110,2025-02-12,Local train ticket,1503.53,expense,Transportation,Cash
+TXN0117,2025-02-13,Vodafone mobile recharge,1751.89,expense,Bills & Utilities,Auto-debit
+TXN0129,2025-02-13,YouTube Premium,2183.2,expense,Entertainment,UPI
+TXN0074,2025-02-14,Momo stall,788.93,expense,Food & Dining,Debit Card
+TXN0118,2025-02-14,LPG gas bill,683.69,expense,Bills & Utilities,UPI
+TXN0121,2025-02-14,ACT Fibernet bill,1290.27,expense,Bills & Utilities,Auto-debit
+TXN0081,2025-02-15,South Indian thali,427.79,expense,Food & Dining,Debit Card
+TXN0091,2025-02-15,Spencer's supermarket,817.06,expense,Groceries,Cash
+TXN0122,2025-02-15,DTH recharge - Tata Play,2687.88,expense,Bills & Utilities,UPI
+TXN0123,2025-02-16,Doctor consultation fee,1147.14,expense,Healthcare,Cash
+TXN0071,2025-02-17,Cafe Coffee Day,181.43,expense,Food & Dining,Credit Card
+TXN0079,2025-02-17,Starbucks coffee,700.65,expense,Food & Dining,Credit Card
+TXN0107,2025-02-17,IRCTC train ticket,897.33,expense,Transportation,Cash
+TXN0111,2025-02-17,Ola cab - airport,1107.89,expense,Transportation,Debit Card
+TXN0116,2025-02-17,Vodafone mobile recharge,3620.18,expense,Bills & Utilities,Auto-debit
+TXN0124,2025-02-17,Health insurance premium,515.5,expense,Healthcare,Cash
+TXN0083,2025-02-18,Local dhaba lunch,841.29,expense,Food & Dining,UPI
+TXN0120,2025-02-18,Electricity bill - BESCOM,1343.61,expense,Bills & Utilities,UPI
+TXN0073,2025-02-19,Haldiram's snacks,249.48,expense,Food & Dining,UPI
+TXN0078,2025-02-19,McDonald's drive-through,614.95,expense,Food & Dining,UPI
+TXN0086,2025-02-20,Hotel Saravana Bhavan,414.14,expense,Food & Dining,Debit Card
+TXN0128,2025-02-21,Gaming - Steam purchase,1420.71,expense,Entertainment,Credit Card
+TXN0067,2025-02-22,Reimbursement - office expense,3155.22,income,Income,NEFT
+TXN0105,2025-02-22,Rapido bike ride,580.62,expense,Transportation,Debit Card
+TXN0115,2025-02-22,BluSmart EV cab,1569.19,expense,Transportation,UPI
+TXN0085,2025-02-24,South Indian thali,1080.89,expense,Food & Dining,Credit Card
+TXN0097,2025-02-24,Myntra clothing,7795.93,expense,Shopping,Debit Card
+TXN0077,2025-02-25,Cafe Coffee Day,461.47,expense,Food & Dining,UPI
+TXN0090,2025-02-25,DMart supermarket,311.35,expense,Groceries,Credit Card
+TXN0130,2025-02-25,Air India booking,17440.46,expense,Travel,Net Banking
+TXN0082,2025-02-26,Chinese restaurant,780.61,expense,Food & Dining,UPI
+TXN0098,2025-02-26,Sports gear,6943.92,expense,Shopping,Debit Card
+TXN0101,2025-02-26,Local train ticket,689.01,expense,Transportation,UPI
+TXN0104,2025-02-26,BluSmart EV cab,783.82,expense,Transportation,FASTag
+TXN0126,2025-02-26,Diagnostic lab test,1621.06,expense,Healthcare,UPI
+TXN0089,2025-02-27,More Supermarket,2329.71,expense,Groceries,UPI
+TXN0093,2025-02-27,Zepto quick delivery,2045.89,expense,Groceries,Debit Card
+TXN0103,2025-02-27,Bus pass renewal,579.41,expense,Transportation,Cash
+TXN0070,2025-02-28,Chinese restaurant,663.08,expense,Food & Dining,Credit Card
+TXN0087,2025-02-28,More Supermarket,2499.99,expense,Groceries,Cash
+TXN0088,2025-02-28,BigBasket order,1103.59,expense,Groceries,UPI
+TXN0100,2025-02-28,Local train ticket,2011.52,expense,Transportation,FASTag
+TXN0106,2025-02-28,Ola cab - airport,840.81,expense,Transportation,Cash
+TXN0131,2025-03-01,Monthly Salary - Company,48875.36,income,Income,NEFT
+TXN0195,2025-03-01,IRCTC Rajdhani ticket,5142.49,expense,Travel,Credit Card
+TXN0132,2025-03-02,South Indian thali,679.39,expense,Food & Dining,Credit Card
+TXN0133,2025-03-04,Chai tapri,1110.87,expense,Food & Dining,Credit Card
+TXN0163,2025-03-04,Zara outfit,7724.82,expense,Shopping,Credit Card
+TXN0162,2025-03-06,Fresh fruits purchase,2754.07,expense,Groceries,UPI
+TXN0144,2025-03-07,Food court lunch,569.04,expense,Food & Dining,Cash
+TXN0159,2025-03-07,BigBasket order,3338.76,expense,Groceries,Debit Card
+TXN0161,2025-03-07,JioMart vegetables,2104.7,expense,Groceries,Credit Card
+TXN0140,2025-03-08,Starbucks coffee,890.63,expense,Food & Dining,Debit Card
+TXN0176,2025-03-08,BluSmart EV cab,826.09,expense,Transportation,UPI
+TXN0139,2025-03-09,Chai tapri,796.89,expense,Food & Dining,UPI
+TXN0148,2025-03-09,Food court lunch,647.29,expense,Food & Dining,Cash
+TXN0153,2025-03-09,Barbeque Nation dinner,316.27,expense,Food & Dining,Debit Card
+TXN0167,2025-03-10,BluSmart EV cab,1752.07,expense,Transportation,UPI
+TXN0149,2025-03-11,Barbeque Nation dinner,151.35,expense,Food & Dining,Credit Card
+TXN0154,2025-03-11,Canteen dinner,348.59,expense,Food & Dining,Cash
+TXN0157,2025-03-12,Reliance Fresh,3499.71,expense,Groceries,UPI
+TXN0172,2025-03-12,Auto rickshaw,1100.8,expense,Transportation,Debit Card
+TXN0187,2025-03-12,Gym membership,3353.4,expense,Healthcare,Cash
+TXN0142,2025-03-13,KFC bucket meal,282.9,expense,Food & Dining,Credit Card
+TXN0186,2025-03-13,Diagnostic lab test,1541.75,expense,Healthcare,Credit Card
+TXN0143,2025-03-14,Canteen dinner,189.37,expense,Food & Dining,Cash
+TXN0152,2025-03-14,KFC bucket meal,210.66,expense,Food & Dining,Cash
+TXN0169,2025-03-14,Auto rickshaw,887.59,expense,Transportation,Cash
+TXN0173,2025-03-14,Metro card recharge,1777.05,expense,Transportation,Cash
+TXN0183,2025-03-14,DTH recharge - Tata Play,1117.15,expense,Bills & Utilities,Auto-debit
+TXN0188,2025-03-14,Yoga class fee,2701.52,expense,Healthcare,Credit Card
+TXN0177,2025-03-15,Rapido bike ride,718.95,expense,Transportation,Debit Card
+TXN0189,2025-03-15,PharmEasy order,1823.87,expense,Healthcare,Credit Card
+TXN0137,2025-03-16,Chai tapri,923.15,expense,Food & Dining,Debit Card
+TXN0156,2025-03-16,BigBasket order,2971.71,expense,Groceries,UPI
+TXN0160,2025-03-16,Weekly provisions,1063.34,expense,Groceries,UPI
+TXN0136,2025-03-18,Chai tapri,1017.01,expense,Food & Dining,Credit Card
+TXN0141,2025-03-18,Cafe Coffee Day,465.29,expense,Food & Dining,Credit Card
+TXN0191,2025-03-18,Karaoke evening,446.71,expense,Entertainment,Credit Card
+TXN0145,2025-03-19,Swiggy order - biryani,1097.23,expense,Food & Dining,Cash
+TXN0151,2025-03-19,Momo stall,1099.48,expense,Food & Dining,UPI
+TXN0164,2025-03-19,Electronics - Croma,7445.32,expense,Shopping,Net Banking
+TXN0168,2025-03-19,Namma Yatri ride,1996.68,expense,Transportation,UPI
+TXN0181,2025-03-20,Vodafone mobile recharge,1262.7,expense,Bills & Utilities,Auto-debit
+TXN0158,2025-03-21,BigBasket order,2799.95,expense,Groceries,UPI
+TXN0170,2025-03-21,Diesel refill,200.32,expense,Transportation,UPI
+TXN0134,2025-03-22,Chinese restaurant,985.53,expense,Food & Dining,Debit Card
+TXN0178,2025-03-22,IRCTC train ticket,1437.53,expense,Transportation,Cash
+TXN0165,2025-03-23,Ajio fashion,3293.9,expense,Shopping,Credit Card
+TXN0184,2025-03-23,DTH recharge - Tata Play,3081.03,expense,Bills & Utilities,Auto-debit
+TXN0190,2025-03-24,Spotify Premium,768.56,expense,Entertainment,UPI
+TXN0192,2025-03-24,YouTube Premium,655.47,expense,Entertainment,UPI
+TXN0193,2025-03-25,Cricket match tickets,2201.3,expense,Entertainment,Debit Card
+TXN0180,2025-03-26,Vodafone mobile recharge,1006.06,expense,Bills & Utilities,UPI
+TXN0185,2025-03-26,Apollo Pharmacy medicines,2505.02,expense,Healthcare,UPI
+TXN0138,2025-03-27,Starbucks coffee,931.92,expense,Food & Dining,Cash
+TXN0155,2025-03-27,Local kirana store,2706.43,expense,Groceries,Credit Card
+TXN0166,2025-03-27,Electronics - Croma,4818.36,expense,Shopping,Debit Card
+TXN0171,2025-03-27,Bus pass renewal,2128.45,expense,Transportation,UPI
+TXN0175,2025-03-27,Local train ticket,1178.24,expense,Transportation,Cash
+TXN0194,2025-03-27,Byju's subscription,14711.56,expense,Education,Credit Card
+TXN0147,2025-03-28,Food court lunch,933.75,expense,Food & Dining,Credit Card
+TXN0179,2025-03-28,Diesel refill,100.89,expense,Transportation,FASTag
+TXN0135,2025-03-29,Chai tapri,1146.04,expense,Food & Dining,Cash
+TXN0150,2025-03-30,KFC bucket meal,1027.75,expense,Food & Dining,UPI
+TXN0174,2025-03-30,FASTag toll payment,1551.3,expense,Transportation,Debit Card
+TXN0146,2025-03-31,Udupi restaurant,635.14,expense,Food & Dining,Debit Card
+TXN0182,2025-03-31,Jio postpaid bill,238.57,expense,Bills & Utilities,Net Banking
+TXN0196,2025-04-01,Monthly Salary - Company,49097.25,income,Income,NEFT
+TXN0221,2025-04-01,Blinkit grocery delivery,2231.88,expense,Groceries,Debit Card
+TXN0208,2025-04-02,Street food outing,734.12,expense,Food & Dining,UPI
+TXN0255,2025-04-02,Doctor consultation fee,2527.11,expense,Healthcare,Cash
+TXN0239,2025-04-03,Rapido bike ride,1394.06,expense,Transportation,UPI
+TXN0204,2025-04-04,South Indian thali,1193.43,expense,Food & Dining,Cash
+TXN0240,2025-04-04,Auto rickshaw,1169.78,expense,Transportation,FASTag
+TXN0197,2025-04-05,Subway sandwich,435.51,expense,Food & Dining,UPI
+TXN0235,2025-04-05,Petrol - HP Petrol Pump,689.63,expense,Transportation,Debit Card
+TXN0243,2025-04-05,IRCTC train ticket,1158.26,expense,Transportation,FASTag
+TXN0210,2025-04-06,Haldiram's snacks,833.26,expense,Food & Dining,Credit Card
+TXN0211,2025-04-06,Swiggy order - biryani,716.15,expense,Food & Dining,Cash
+TXN0224,2025-04-06,JioMart vegetables,2741.95,expense,Groceries,Cash
+TXN0225,2025-04-06,Fresh fruits purchase,3231.43,expense,Groceries,Cash
+TXN0209,2025-04-07,Hotel Saravana Bhavan,1143.4,expense,Food & Dining,Debit Card
+TXN0214,2025-04-08,Starbucks coffee,196.87,expense,Food & Dining,Credit Card
+TXN0245,2025-04-09,Namma Yatri ride,2164.15,expense,Transportation,Debit Card
+TXN0213,2025-04-10,Local dhaba lunch,155.25,expense,Food & Dining,Cash
+TXN0238,2025-04-10,FASTag toll payment,1783.16,expense,Transportation,UPI
+TXN0247,2025-04-10,Local train ticket,2056.76,expense,Transportation,Cash
+TXN0199,2025-04-11,Domino's online order,637.01,expense,Food & Dining,UPI
+TXN0227,2025-04-11,Electronics - Croma,3385.12,expense,Shopping,Credit Card
+TXN0228,2025-04-11,Westside apparel,6890.32,expense,Shopping,Net Banking
+TXN0230,2025-04-11,Nykaa cosmetics,3747.64,expense,Shopping,UPI
+TXN0251,2025-04-11,Jio postpaid bill,1930.31,expense,Bills & Utilities,Auto-debit
+TXN0256,2025-04-11,1mg online order,4830.23,expense,Healthcare,Credit Card
+TXN0233,2025-04-12,Parking fee - mall,493.33,expense,Transportation,Debit Card
+TXN0201,2025-04-13,Subway sandwich,1007.88,expense,Food & Dining,UPI
+TXN0206,2025-04-13,Chai tapri,957.75,expense,Food & Dining,Cash
+TXN0229,2025-04-13,Home decor item,2448.1,expense,Shopping,Credit Card
+TXN0252,2025-04-13,Jio postpaid bill,1107.46,expense,Bills & Utilities,UPI
+TXN0218,2025-04-15,Local dhaba lunch,594.29,expense,Food & Dining,Cash
+TXN0232,2025-04-15,IRCTC train ticket,2177.34,expense,Transportation,UPI
+TXN0249,2025-04-15,FASTag toll payment,2167.19,expense,Transportation,Debit Card
+TXN0257,2025-04-15,Netflix subscription,1625.26,expense,Entertainment,Debit Card
+TXN0219,2025-04-16,JioMart vegetables,1901.51,expense,Groceries,UPI
+TXN0226,2025-04-16,Blinkit grocery delivery,2331.31,expense,Groceries,Cash
+TXN0236,2025-04-16,Ola cab - airport,2205.69,expense,Transportation,UPI
+TXN0242,2025-04-16,Bus pass renewal,1056.26,expense,Transportation,FASTag
+TXN0244,2025-04-17,Local train ticket,2307.01,expense,Transportation,FASTag
+TXN0215,2025-04-18,Haldiram's snacks,579.15,expense,Food & Dining,Credit Card
+TXN0198,2025-04-19,Local dhaba lunch,1062.54,expense,Food & Dining,Cash
+TXN0203,2025-04-19,Local dhaba lunch,281.13,expense,Food & Dining,UPI
+TXN0207,2025-04-19,Food court lunch,441.14,expense,Food & Dining,Debit Card
+TXN0248,2025-04-19,Auto rickshaw,2098.57,expense,Transportation,Debit Card
+TXN0212,2025-04-20,Subway sandwich,606.54,expense,Food & Dining,Debit Card
+TXN0237,2025-04-20,Namma Yatri ride,2433.67,expense,Transportation,FASTag
+TXN0202,2025-04-22,Zomato pizza delivery,743.18,expense,Food & Dining,Credit Card
+TXN0223,2025-04-22,More Supermarket,3498.63,expense,Groceries,UPI
+TXN0254,2025-04-22,Health insurance premium,1991.79,expense,Healthcare,UPI
+TXN0241,2025-04-23,Petrol - HP Petrol Pump,1260.99,expense,Transportation,Cash
+TXN0253,2025-04-24,DTH recharge - Tata Play,365.86,expense,Bills & Utilities,Auto-debit
+TXN0231,2025-04-25,Westside apparel,1104.19,expense,Shopping,Credit Card
+TXN0234,2025-04-25,Uber ride to office,1574.76,expense,Transportation,FASTag
+TXN0250,2025-04-25,BSNL landline bill,1463.27,expense,Bills & Utilities,UPI
+TXN0205,2025-04-26,Street food outing,774.82,expense,Food & Dining,Credit Card
+TXN0217,2025-04-26,Local dhaba lunch,184.41,expense,Food & Dining,Debit Card
+TXN0246,2025-04-26,FASTag toll payment,869.49,expense,Transportation,Cash
+TXN0216,2025-04-27,KFC bucket meal,1101.08,expense,Food & Dining,UPI
+TXN0222,2025-04-27,Fresh fruits purchase,3378.12,expense,Groceries,UPI
+TXN0200,2025-04-28,Subway sandwich,392.68,expense,Food & Dining,UPI
+TXN0258,2025-04-28,Pub night out,518.05,expense,Entertainment,Credit Card
+TXN0220,2025-04-29,Local kirana store,2213.72,expense,Groceries,Credit Card
+TXN0259,2025-05-01,Monthly Salary - Company,51876.81,income,Income,NEFT
+TXN0262,2025-05-02,Street food outing,1062.17,expense,Food & Dining,UPI
+TXN0299,2025-05-04,Myntra clothing,5264.07,expense,Shopping,Credit Card
+TXN0286,2025-05-05,Spencer's supermarket,862.05,expense,Groceries,Credit Card
+TXN0290,2025-05-05,Reliance Fresh,3381.26,expense,Groceries,Cash
+TXN0315,2025-05-05,Airtel broadband bill,1253.64,expense,Bills & Utilities,Auto-debit
+TXN0317,2025-05-05,Electricity bill - BESCOM,3492.5,expense,Bills & Utilities,UPI
+TXN0319,2025-05-05,Karaoke evening,869.57,expense,Entertainment,UPI
+TXN0273,2025-05-06,Cafe Coffee Day,851.82,expense,Food & Dining,Cash
+TXN0316,2025-05-06,Water bill payment,1152.49,expense,Bills & Utilities,Auto-debit
+TXN0312,2025-05-07,Ola cab - airport,1973.84,expense,Transportation,FASTag
+TXN0295,2025-05-08,Shoppers Stop,1045.1,expense,Shopping,Credit Card
+TXN0297,2025-05-08,Electronics - Croma,7339.0,expense,Shopping,Credit Card
+TXN0318,2025-05-08,ACT Fibernet bill,3201.94,expense,Bills & Utilities,UPI
+TXN0271,2025-05-09,Chai tapri,618.04,expense,Food & Dining,Debit Card
+TXN0305,2025-05-09,Uber ride to office,2349.46,expense,Transportation,Cash
+TXN0308,2025-05-09,Rapido bike ride,179.56,expense,Transportation,UPI
+TXN0278,2025-05-10,Swiggy order - biryani,1192.11,expense,Food & Dining,Cash
+TXN0285,2025-05-10,Zepto quick delivery,588.43,expense,Groceries,Cash
+TXN0289,2025-05-11,Blinkit grocery delivery,2688.99,expense,Groceries,Cash
+TXN0311,2025-05-11,Rapido bike ride,154.93,expense,Transportation,FASTag
+TXN0281,2025-05-12,Haldiram's snacks,775.63,expense,Food & Dining,Credit Card
+TXN0284,2025-05-12,Milk and dairy,406.77,expense,Groceries,Debit Card
+TXN0293,2025-05-12,Electronics - Croma,1163.99,expense,Shopping,UPI
+TXN0321,2025-05-12,Cricket match tickets,1400.0,expense,Entertainment,Debit Card
+TXN0261,2025-05-13,Canteen dinner,1048.09,expense,Food & Dining,Cash
+TXN0292,2025-05-13,BigBasket order,588.97,expense,Groceries,Credit Card
+TXN0264,2025-05-14,McDonald's drive-through,926.51,expense,Food & Dining,UPI
+TXN0267,2025-05-14,KFC bucket meal,507.14,expense,Food & Dining,Credit Card
+TXN0275,2025-05-15,Local dhaba lunch,865.54,expense,Food & Dining,Credit Card
+TXN0298,2025-05-15,Meesho order,5156.15,expense,Shopping,UPI
+TXN0306,2025-05-15,Rapido bike ride,566.66,expense,Transportation,Cash
+TXN0300,2025-05-16,Ola cab - airport,781.78,expense,Transportation,UPI
+TXN0301,2025-05-18,Metro card recharge,609.96,expense,Transportation,Debit Card
+TXN0268,2025-05-19,Domino's online order,693.66,expense,Food & Dining,Credit Card
+TXN0270,2025-05-19,KFC bucket meal,657.48,expense,Food & Dining,Credit Card
+TXN0274,2025-05-19,Local dhaba lunch,1140.85,expense,Food & Dining,Cash
+TXN0277,2025-05-19,Udupi restaurant,376.18,expense,Food & Dining,Debit Card
+TXN0279,2025-05-19,Zomato pizza delivery,416.44,expense,Food & Dining,Cash
+TXN0269,2025-05-20,Barbeque Nation dinner,309.07,expense,Food & Dining,Credit Card
+TXN0260,2025-05-21,Dividend received - Mutual Fund,620.47,income,Income,UPI
+TXN0283,2025-05-21,Zomato pizza delivery,1095.68,expense,Food & Dining,Debit Card
+TXN0310,2025-05-21,Auto rickshaw,1667.04,expense,Transportation,UPI
+TXN0263,2025-05-22,Local dhaba lunch,373.55,expense,Food & Dining,Credit Card
+TXN0282,2025-05-22,KFC bucket meal,790.56,expense,Food & Dining,UPI
+TXN0302,2025-05-22,Local train ticket,1150.5,expense,Transportation,Debit Card
+TXN0307,2025-05-22,Diesel refill,275.41,expense,Transportation,Cash
+TXN0265,2025-05-23,Local dhaba lunch,599.17,expense,Food & Dining,UPI
+TXN0303,2025-05-24,Metro card recharge,1480.73,expense,Transportation,Debit Card
+TXN0320,2025-05-24,Amazon Prime Video,1625.65,expense,Entertainment,UPI
+TXN0266,2025-05-26,Zomato pizza delivery,169.67,expense,Food & Dining,Debit Card
+TXN0291,2025-05-26,Spencer's supermarket,3395.26,expense,Groceries,Credit Card
+TXN0314,2025-05-26,ACT Fibernet bill,3142.6,expense,Bills & Utilities,Net Banking
+TXN0288,2025-05-27,JioMart vegetables,1122.3,expense,Groceries,Credit Card
+TXN0294,2025-05-27,Electronics - Croma,4759.57,expense,Shopping,UPI
+TXN0304,2025-05-27,Bus pass renewal,1647.66,expense,Transportation,Debit Card
+TXN0309,2025-05-27,Bus pass renewal,2374.06,expense,Transportation,UPI
+TXN0276,2025-05-28,Subway sandwich,1199.32,expense,Food & Dining,UPI
+TXN0313,2025-05-28,Jio postpaid bill,1020.62,expense,Bills & Utilities,UPI
+TXN0272,2025-05-29,Chai tapri,840.19,expense,Food & Dining,Debit Card
+TXN0280,2025-05-29,Local dhaba lunch,1019.47,expense,Food & Dining,Credit Card
+TXN0287,2025-05-30,More Supermarket,1998.73,expense,Groceries,Debit Card
+TXN0296,2025-05-31,H&M purchase,5032.47,expense,Shopping,UPI
+TXN0322,2025-06-01,Monthly Salary - Company,48886.2,income,Income,NEFT
+TXN0324,2025-06-01,Zomato pizza delivery,614.69,expense,Food & Dining,Cash
+TXN0385,2025-06-02,INOX cinema,1410.55,expense,Entertainment,UPI
+TXN0382,2025-06-03,Gym membership,839.69,expense,Healthcare,Credit Card
+TXN0331,2025-06-04,South Indian thali,976.54,expense,Food & Dining,Credit Card
+TXN0357,2025-06-04,Lifestyle store,6088.56,expense,Shopping,Net Banking
+TXN0362,2025-06-04,Uber ride to office,744.93,expense,Transportation,Debit Card
+TXN0374,2025-06-04,FASTag toll payment,1290.89,expense,Transportation,FASTag
+TXN0327,2025-06-05,Cafe Coffee Day,467.88,expense,Food & Dining,Credit Card
+TXN0354,2025-06-05,DMart supermarket,3126.69,expense,Groceries,UPI
+TXN0376,2025-06-05,Petrol - HP Petrol Pump,613.58,expense,Transportation,FASTag
+TXN0363,2025-06-06,Metro card recharge,1875.12,expense,Transportation,Debit Card
+TXN0361,2025-06-07,Sports gear,1794.5,expense,Shopping,Debit Card
+TXN0364,2025-06-08,FASTag toll payment,1345.48,expense,Transportation,Cash
+TXN0347,2025-06-09,Milk and dairy,392.65,expense,Groceries,Credit Card
+TXN0355,2025-06-09,JioMart vegetables,2456.7,expense,Groceries,Cash
+TXN0359,2025-06-10,Amazon purchase,4310.09,expense,Shopping,Debit Card
+TXN0372,2025-06-10,Local train ticket,1007.54,expense,Transportation,Cash
+TXN0334,2025-06-11,Food court lunch,907.98,expense,Food & Dining,Debit Card
+TXN0352,2025-06-11,DMart supermarket,1643.46,expense,Groceries,Credit Card
+TXN0353,2025-06-11,Fresh fruits purchase,1297.24,expense,Groceries,UPI
+TXN0381,2025-06-11,Health insurance premium,4934.01,expense,Healthcare,Credit Card
+TXN0335,2025-06-12,KFC bucket meal,838.32,expense,Food & Dining,Cash
+TXN0341,2025-06-12,McDonald's drive-through,768.44,expense,Food & Dining,Credit Card
+TXN0348,2025-06-12,BigBasket order,3248.92,expense,Groceries,Debit Card
+TXN0375,2025-06-12,Diesel refill,2267.63,expense,Transportation,FASTag
+TXN0368,2025-06-13,Uber ride to office,745.1,expense,Transportation,Cash
+TXN0371,2025-06-13,FASTag toll payment,1106.12,expense,Transportation,UPI
+TXN0387,2025-06-13,YouTube Premium,1822.83,expense,Entertainment,Debit Card
+TXN0325,2025-06-14,McDonald's drive-through,1035.08,expense,Food & Dining,Cash
+TXN0339,2025-06-14,Udupi restaurant,843.61,expense,Food & Dining,Cash
+TXN0356,2025-06-14,Nykaa cosmetics,4935.19,expense,Shopping,Debit Card
+TXN0326,2025-06-15,Cafe Coffee Day,889.39,expense,Food & Dining,UPI
+TXN0333,2025-06-15,Barbeque Nation dinner,486.05,expense,Food & Dining,Cash
+TXN0366,2025-06-15,Ola cab - airport,1107.46,expense,Transportation,Cash
+TXN0342,2025-06-16,Haldiram's snacks,287.11,expense,Food & Dining,UPI
+TXN0351,2025-06-17,Reliance Fresh,593.62,expense,Groceries,Cash
+TXN0384,2025-06-17,1mg online order,375.24,expense,Healthcare,Credit Card
+TXN0343,2025-06-18,Udupi restaurant,498.12,expense,Food & Dining,UPI
+TXN0338,2025-06-19,South Indian thali,720.88,expense,Food & Dining,Debit Card
+TXN0344,2025-06-19,Haldiram's snacks,943.61,expense,Food & Dining,Cash
+TXN0349,2025-06-19,Weekly provisions,3083.56,expense,Groceries,Cash
+TXN0367,2025-06-19,IRCTC train ticket,1452.13,expense,Transportation,Debit Card
+TXN0379,2025-06-19,ACT Fibernet bill,1963.02,expense,Bills & Utilities,UPI
+TXN0380,2025-06-19,Health insurance premium,4628.36,expense,Healthcare,Cash
+TXN0329,2025-06-20,Chinese restaurant,531.38,expense,Food & Dining,Debit Card
+TXN0330,2025-06-20,Food court lunch,610.01,expense,Food & Dining,UPI
+TXN0360,2025-06-20,Amazon purchase,3283.05,expense,Shopping,Credit Card
+TXN0369,2025-06-20,Bus pass renewal,454.53,expense,Transportation,Cash
+TXN0328,2025-06-21,Momo stall,417.02,expense,Food & Dining,Debit Card
+TXN0358,2025-06-22,Electronics - Croma,1064.94,expense,Shopping,Net Banking
+TXN0337,2025-06-24,Udupi restaurant,586.43,expense,Food & Dining,Credit Card
+TXN0340,2025-06-24,Zomato pizza delivery,1057.54,expense,Food & Dining,Debit Card
+TXN0350,2025-06-24,Weekly provisions,522.67,expense,Groceries,UPI
+TXN0345,2025-06-25,Street food outing,1032.77,expense,Food & Dining,UPI
+TXN0373,2025-06-25,Metro card recharge,577.28,expense,Transportation,UPI
+TXN0377,2025-06-25,LPG gas bill,2489.12,expense,Bills & Utilities,Net Banking
+TXN0378,2025-06-25,LPG gas bill,873.16,expense,Bills & Utilities,UPI
+TXN0383,2025-06-26,PharmEasy order,3193.79,expense,Healthcare,Cash
+TXN0388,2025-06-26,Karaoke evening,1707.52,expense,Entertainment,Credit Card
+TXN0389,2025-06-26,Gaming - Steam purchase,1404.23,expense,Entertainment,Debit Card
+TXN0336,2025-06-27,Cafe Coffee Day,192.5,expense,Food & Dining,UPI
+TXN0346,2025-06-27,Milk and dairy,3273.07,expense,Groceries,Credit Card
+TXN0323,2025-06-28,Chinese restaurant,965.89,expense,Food & Dining,Debit Card
+TXN0365,2025-06-28,Local train ticket,208.03,expense,Transportation,UPI
+TXN0370,2025-06-28,Ola cab - airport,247.68,expense,Transportation,FASTag
+TXN0386,2025-06-28,Amazon Prime Video,322.52,expense,Entertainment,Debit Card
+TXN0332,2025-06-29,Haldiram's snacks,584.48,expense,Food & Dining,Cash
+TXN0390,2025-07-01,Monthly Salary - Company,49902.52,income,Income,NEFT
+TXN0430,2025-07-01,Ola cab - airport,1138.05,expense,Transportation,UPI
+TXN0436,2025-07-01,Parking fee - mall,749.44,expense,Transportation,Cash
+TXN0412,2025-07-02,Food court lunch,898.88,expense,Food & Dining,Debit Card
+TXN0419,2025-07-02,Weekly provisions,3093.61,expense,Groceries,Cash
+TXN0448,2025-07-02,Jio postpaid bill,1315.08,expense,Bills & Utilities,Net Banking
+TXN0450,2025-07-02,Health insurance premium,2419.66,expense,Healthcare,UPI
+TXN0441,2025-07-03,Diesel refill,912.02,expense,Transportation,FASTag
+TXN0427,2025-07-04,Home decor item,2685.74,expense,Shopping,UPI
+TXN0442,2025-07-04,ACT Fibernet bill,2697.0,expense,Bills & Utilities,Auto-debit
+TXN0452,2025-07-04,INOX cinema,1062.58,expense,Entertainment,UPI
+TXN0407,2025-07-05,KFC bucket meal,364.67,expense,Food & Dining,UPI
+TXN0410,2025-07-05,Domino's online order,765.03,expense,Food & Dining,Credit Card
+TXN0429,2025-07-05,Namma Yatri ride,1749.3,expense,Transportation,Debit Card
+TXN0443,2025-07-05,Electricity bill - BESCOM,3075.38,expense,Bills & Utilities,UPI
+TXN0446,2025-07-06,Airtel broadband bill,2018.42,expense,Bills & Utilities,Net Banking
+TXN0454,2025-07-06,YouTube Premium,1083.21,expense,Entertainment,Debit Card
+TXN0413,2025-07-08,Chai tapri,850.47,expense,Food & Dining,Debit Card
+TXN0433,2025-07-08,IRCTC train ticket,330.97,expense,Transportation,Debit Card
+TXN0440,2025-07-09,Local train ticket,2453.17,expense,Transportation,UPI
+TXN0405,2025-07-10,Domino's online order,139.69,expense,Food & Dining,Credit Card
+TXN0417,2025-07-10,Local kirana store,1777.38,expense,Groceries,Cash
+TXN0428,2025-07-10,BluSmart EV cab,369.87,expense,Transportation,Debit Card
+TXN0432,2025-07-10,Rapido bike ride,304.63,expense,Transportation,Cash
+TXN0395,2025-07-11,Street food outing,561.47,expense,Food & Dining,UPI
+TXN0425,2025-07-12,Ajio fashion,3292.34,expense,Shopping,Net Banking
+TXN0426,2025-07-12,Ajio fashion,7957.3,expense,Shopping,Credit Card
+TXN0438,2025-07-12,Ola cab - airport,1323.01,expense,Transportation,UPI
+TXN0404,2025-07-14,Chinese restaurant,817.71,expense,Food & Dining,Debit Card
+TXN0437,2025-07-14,Metro card recharge,624.19,expense,Transportation,UPI
+TXN0391,2025-07-15,Freelance project payment,6035.02,income,Income,UPI
+TXN0393,2025-07-15,Chai tapri,387.56,expense,Food & Dining,Credit Card
+TXN0439,2025-07-16,Uber ride to office,994.42,expense,Transportation,Debit Card
+TXN0422,2025-07-17,DMart supermarket,1737.82,expense,Groceries,Cash
+TXN0449,2025-07-17,Eye checkup - optician,4673.52,expense,Healthcare,Cash
+TXN0397,2025-07-18,Barbeque Nation dinner,476.07,expense,Food & Dining,Debit Card
+TXN0420,2025-07-18,Blinkit grocery delivery,3097.17,expense,Groceries,UPI
+TXN0399,2025-07-19,KFC bucket meal,480.03,expense,Food & Dining,Debit Card
+TXN0435,2025-07-19,Rapido bike ride,1590.93,expense,Transportation,FASTag
+TXN0392,2025-07-21,Domino's online order,211.08,expense,Food & Dining,UPI
+TXN0396,2025-07-21,Canteen dinner,972.37,expense,Food & Dining,UPI
+TXN0400,2025-07-21,Barbeque Nation dinner,455.05,expense,Food & Dining,Credit Card
+TXN0402,2025-07-21,Canteen dinner,723.64,expense,Food & Dining,Credit Card
+TXN0445,2025-07-22,DTH recharge - Tata Play,3355.46,expense,Bills & Utilities,Auto-debit
+TXN0453,2025-07-24,YouTube Premium,2679.51,expense,Entertainment,UPI
+TXN0456,2025-07-24,Books & stationery,12056.99,expense,Education,Net Banking
+TXN0406,2025-07-25,Subway sandwich,489.07,expense,Food & Dining,Credit Card
+TXN0411,2025-07-25,Street food outing,1017.85,expense,Food & Dining,Credit Card
+TXN0421,2025-07-25,DMart supermarket,1212.2,expense,Groceries,Credit Card
+TXN0451,2025-07-25,Netflix subscription,1135.23,expense,Entertainment,Debit Card
+TXN0408,2025-07-26,McDonald's drive-through,439.46,expense,Food & Dining,UPI
+TXN0414,2025-07-26,Chai tapri,932.58,expense,Food & Dining,Credit Card
+TXN0455,2025-07-26,Workshop registration,5636.73,expense,Education,Credit Card
+TXN0403,2025-07-27,Chinese restaurant,843.73,expense,Food & Dining,UPI
+TXN0418,2025-07-27,Reliance Fresh,3392.06,expense,Groceries,Debit Card
+TXN0431,2025-07-27,Metro card recharge,662.13,expense,Transportation,Debit Card
+TXN0434,2025-07-27,Bus pass renewal,185.13,expense,Transportation,UPI
+TXN0444,2025-07-27,LPG gas bill,2274.85,expense,Bills & Utilities,Net Banking
+TXN0398,2025-07-28,Street food outing,392.16,expense,Food & Dining,Credit Card
+TXN0409,2025-07-29,Street food outing,834.88,expense,Food & Dining,Credit Card
+TXN0394,2025-07-30,Local dhaba lunch,513.01,expense,Food & Dining,Cash
+TXN0423,2025-07-30,Reliance Fresh,593.48,expense,Groceries,Cash
+TXN0424,2025-07-30,BigBasket order,3130.82,expense,Groceries,Cash
+TXN0401,2025-07-31,Cafe Coffee Day,762.64,expense,Food & Dining,Debit Card
+TXN0415,2025-07-31,JioMart vegetables,1065.34,expense,Groceries,Debit Card
+TXN0416,2025-07-31,Fresh fruits purchase,1477.09,expense,Groceries,Cash
+TXN0447,2025-07-31,DTH recharge - Tata Play,2920.97,expense,Bills & Utilities,Net Banking
+TXN0457,2025-08-01,Monthly Salary - Company,51980.39,income,Income,NEFT
+TXN0481,2025-08-01,Udupi restaurant,973.6,expense,Food & Dining,Debit Card
+TXN0499,2025-08-01,Bus pass renewal,1556.73,expense,Transportation,Cash
+TXN0465,2025-08-03,Haldiram's snacks,157.58,expense,Food & Dining,Debit Card
+TXN0470,2025-08-04,Swiggy order - biryani,389.58,expense,Food & Dining,Credit Card
+TXN0464,2025-08-05,Street food outing,1149.01,expense,Food & Dining,Cash
+TXN0488,2025-08-05,Local kirana store,2756.9,expense,Groceries,UPI
+TXN0504,2025-08-05,Diesel refill,870.28,expense,Transportation,Cash
+TXN0508,2025-08-05,Ola cab - airport,1140.5,expense,Transportation,UPI
+TXN0494,2025-08-06,Zara outfit,4120.07,expense,Shopping,Debit Card
+TXN0472,2025-08-09,Chai tapri,402.72,expense,Food & Dining,Credit Card
+TXN0492,2025-08-09,Ajio fashion,6798.28,expense,Shopping,UPI
+TXN0518,2025-08-09,Dental checkup,756.28,expense,Healthcare,Credit Card
+TXN0473,2025-08-10,Subway sandwich,1196.07,expense,Food & Dining,Credit Card
+TXN0493,2025-08-10,Zara outfit,1176.33,expense,Shopping,Credit Card
+TXN0500,2025-08-10,Bus pass renewal,1615.51,expense,Transportation,FASTag
+TXN0458,2025-08-11,Cashback credited,96.17,income,Income,UPI
+TXN0485,2025-08-11,Weekly provisions,701.05,expense,Groceries,UPI
+TXN0490,2025-08-11,Milk and dairy,826.9,expense,Groceries,Debit Card
+TXN0506,2025-08-12,FASTag toll payment,352.99,expense,Transportation,UPI
+TXN0515,2025-08-12,Electricity bill - BESCOM,1017.55,expense,Bills & Utilities,Net Banking
+TXN0520,2025-08-12,Yoga class fee,2852.9,expense,Healthcare,Credit Card
+TXN0523,2025-08-12,Airbnb stay,3139.69,expense,Travel,Debit Card
+TXN0463,2025-08-13,Udupi restaurant,844.88,expense,Food & Dining,Credit Card
+TXN0469,2025-08-13,Canteen dinner,691.82,expense,Food & Dining,Debit Card
+TXN0471,2025-08-13,South Indian thali,658.97,expense,Food & Dining,UPI
+TXN0483,2025-08-13,Milk and dairy,510.39,expense,Groceries,Cash
+TXN0509,2025-08-13,BluSmart EV cab,746.82,expense,Transportation,Debit Card
+TXN0519,2025-08-13,Apollo Pharmacy medicines,1893.09,expense,Healthcare,Cash
+TXN0459,2025-08-15,Street food outing,439.29,expense,Food & Dining,Cash
+TXN0460,2025-08-15,Udupi restaurant,299.98,expense,Food & Dining,Cash
+TXN0507,2025-08-15,Ola cab - airport,818.22,expense,Transportation,Cash
+TXN0521,2025-08-15,Cricket match tickets,1220.41,expense,Entertainment,UPI
+TXN0503,2025-08-16,Bus pass renewal,1115.83,expense,Transportation,FASTag
+TXN0512,2025-08-16,FASTag toll payment,1914.91,expense,Transportation,Debit Card
+TXN0513,2025-08-16,Electricity bill - BESCOM,3540.49,expense,Bills & Utilities,Net Banking
+TXN0479,2025-08-17,Haldiram's snacks,977.19,expense,Food & Dining,UPI
+TXN0489,2025-08-17,DMart supermarket,2960.45,expense,Groceries,Credit Card
+TXN0491,2025-08-17,Meesho order,7590.37,expense,Shopping,UPI
+TXN0514,2025-08-17,DTH recharge - Tata Play,3791.88,expense,Bills & Utilities,Net Banking
+TXN0477,2025-08-18,South Indian thali,886.3,expense,Food & Dining,Debit Card
+TXN0482,2025-08-18,DMart supermarket,2871.72,expense,Groceries,UPI
+TXN0517,2025-08-18,Electricity bill - BESCOM,1988.23,expense,Bills & Utilities,Net Banking
+TXN0495,2025-08-20,Books purchase,1535.36,expense,Shopping,UPI
+TXN0516,2025-08-20,LPG gas bill,1269.15,expense,Bills & Utilities,Auto-debit
+TXN0522,2025-08-20,Pub night out,2493.4,expense,Entertainment,Debit Card
+TXN0497,2025-08-21,Namma Yatri ride,142.29,expense,Transportation,Cash
+TXN0467,2025-08-22,Chai tapri,773.5,expense,Food & Dining,Debit Card
+TXN0486,2025-08-22,Spencer's supermarket,1739.92,expense,Groceries,Credit Card
+TXN0501,2025-08-22,IRCTC train ticket,2017.58,expense,Transportation,Cash
+TXN0475,2025-08-23,Chai tapri,306.47,expense,Food & Dining,UPI
+TXN0502,2025-08-23,Uber ride to office,1150.25,expense,Transportation,FASTag
+TXN0511,2025-08-24,Diesel refill,2336.37,expense,Transportation,FASTag
+TXN0468,2025-08-25,Cafe Coffee Day,521.77,expense,Food & Dining,Credit Card
+TXN0484,2025-08-25,Local kirana store,1982.23,expense,Groceries,UPI
+TXN0498,2025-08-25,Parking fee - mall,1638.29,expense,Transportation,Debit Card
+TXN0462,2025-08-26,Zomato pizza delivery,416.52,expense,Food & Dining,UPI
+TXN0480,2025-08-26,KFC bucket meal,1183.94,expense,Food & Dining,Credit Card
+TXN0487,2025-08-27,Spencer's supermarket,710.67,expense,Groceries,Debit Card
+TXN0461,2025-08-28,Udupi restaurant,165.74,expense,Food & Dining,Cash
+TXN0474,2025-08-28,Cafe Coffee Day,252.45,expense,Food & Dining,Cash
+TXN0478,2025-08-28,Domino's online order,1082.64,expense,Food & Dining,Credit Card
+TXN0496,2025-08-28,Uber ride to office,131.75,expense,Transportation,UPI
+TXN0505,2025-08-28,Diesel refill,1843.47,expense,Transportation,Debit Card
+TXN0510,2025-08-28,Metro card recharge,643.23,expense,Transportation,Cash
+TXN0466,2025-08-31,Momo stall,511.12,expense,Food & Dining,UPI
+TXN0476,2025-08-31,Canteen dinner,995.35,expense,Food & Dining,Debit Card
+TXN0524,2025-09-01,Monthly Salary - Company,51755.79,income,Income,NEFT
+TXN0566,2025-09-01,Petrol - HP Petrol Pump,2195.56,expense,Transportation,UPI
+TXN0572,2025-09-01,Local train ticket,1804.94,expense,Transportation,Cash
+TXN0556,2025-09-02,Flipkart order,5175.97,expense,Shopping,Net Banking
+TXN0561,2025-09-02,Namma Yatri ride,734.98,expense,Transportation,UPI
+TXN0564,2025-09-02,BluSmart EV cab,2336.79,expense,Transportation,Debit Card
+TXN0590,2025-09-04,Netflix subscription,2760.01,expense,Entertainment,Debit Card
+TXN0526,2025-09-05,Canteen dinner,168.93,expense,Food & Dining,Cash
+TXN0527,2025-09-05,Street food outing,680.88,expense,Food & Dining,Credit Card
+TXN0554,2025-09-05,Flipkart order,5630.14,expense,Shopping,Debit Card
+TXN0569,2025-09-05,BluSmart EV cab,2226.47,expense,Transportation,Debit Card
+TXN0563,2025-09-06,IRCTC train ticket,2285.68,expense,Transportation,FASTag
+TXN0565,2025-09-06,Local train ticket,1976.26,expense,Transportation,Cash
+TXN0576,2025-09-06,Airtel broadband bill,2743.17,expense,Bills & Utilities,UPI
+TXN0540,2025-09-07,Food court lunch,566.0,expense,Food & Dining,Cash
+TXN0545,2025-09-07,Reliance Fresh,2252.25,expense,Groceries,Credit Card
+TXN0553,2025-09-07,Reliance Fresh,2691.48,expense,Groceries,Credit Card
+TXN0560,2025-09-07,Sports gear,3924.1,expense,Shopping,UPI
+TXN0546,2025-09-08,More Supermarket,2085.88,expense,Groceries,Credit Card
+TXN0562,2025-09-08,FASTag toll payment,1641.18,expense,Transportation,UPI
+TXN0577,2025-09-08,Electricity bill - BESCOM,1429.69,expense,Bills & Utilities,UPI
+TXN0584,2025-09-08,Doctor consultation fee,3111.66,expense,Healthcare,Credit Card
+TXN0531,2025-09-10,Subway sandwich,885.44,expense,Food & Dining,UPI
+TXN0551,2025-09-10,Milk and dairy,1229.45,expense,Groceries,UPI
+TXN0581,2025-09-10,Doctor consultation fee,679.3,expense,Healthcare,Credit Card
+TXN0539,2025-09-11,Food court lunch,140.45,expense,Food & Dining,Credit Card
+TXN0543,2025-09-11,Domino's online order,687.52,expense,Food & Dining,Cash
+TXN0567,2025-09-11,Petrol - HP Petrol Pump,2323.28,expense,Transportation,Debit Card
+TXN0544,2025-09-12,Weekly provisions,1395.45,expense,Groceries,Credit Card
+TXN0548,2025-09-12,Spencer's supermarket,1314.53,expense,Groceries,Credit Card
+TXN0580,2025-09-12,Jio postpaid bill,1193.9,expense,Bills & Utilities,Net Banking
+TXN0525,2025-09-13,Chinese restaurant,770.66,expense,Food & Dining,UPI
+TXN0550,2025-09-13,Zepto quick delivery,3166.43,expense,Groceries,Debit Card
+TXN0552,2025-09-15,Weekly provisions,1408.36,expense,Groceries,Credit Card
+TXN0571,2025-09-15,Auto rickshaw,431.36,expense,Transportation,Cash
+TXN0578,2025-09-15,Vodafone mobile recharge,1657.58,expense,Bills & Utilities,UPI
+TXN0557,2025-09-16,Flipkart order,2776.29,expense,Shopping,Debit Card
+TXN0530,2025-09-17,South Indian thali,667.9,expense,Food & Dining,Cash
+TXN0575,2025-09-17,Diesel refill,2072.66,expense,Transportation,UPI
+TXN0592,2025-09-17,Exam registration fee,5056.14,expense,Education,Net Banking
+TXN0542,2025-09-18,Canteen dinner,680.18,expense,Food & Dining,Cash
+TXN0558,2025-09-18,Meesho order,240.42,expense,Shopping,Debit Card
+TXN0568,2025-09-18,FASTag toll payment,2473.08,expense,Transportation,Debit Card
+TXN0591,2025-09-18,College fee installment,3191.92,expense,Education,Net Banking
+TXN0535,2025-09-19,Subway sandwich,899.11,expense,Food & Dining,Credit Card
+TXN0549,2025-09-19,Weekly provisions,1220.93,expense,Groceries,Cash
+TXN0573,2025-09-19,Auto rickshaw,1983.2,expense,Transportation,FASTag
+TXN0528,2025-09-20,Canteen dinner,474.2,expense,Food & Dining,Credit Card
+TXN0529,2025-09-20,Local dhaba lunch,544.39,expense,Food & Dining,Debit Card
+TXN0588,2025-09-20,Amazon Prime Video,2072.99,expense,Entertainment,Debit Card
+TXN0534,2025-09-21,Momo stall,406.77,expense,Food & Dining,Credit Card
+TXN0532,2025-09-22,McDonald's drive-through,517.83,expense,Food & Dining,Cash
+TXN0537,2025-09-22,Haldiram's snacks,279.6,expense,Food & Dining,UPI
+TXN0555,2025-09-22,Meesho order,2091.17,expense,Shopping,Debit Card
+TXN0538,2025-09-23,McDonald's drive-through,738.38,expense,Food & Dining,Credit Card
+TXN0547,2025-09-23,Milk and dairy,2555.68,expense,Groceries,Cash
+TXN0589,2025-09-23,INOX cinema,1395.57,expense,Entertainment,Credit Card
+TXN0593,2025-09-23,Skill certification,10268.37,expense,Education,Credit Card
+TXN0536,2025-09-24,Street food outing,686.17,expense,Food & Dining,Cash
+TXN0541,2025-09-24,Zomato pizza delivery,1062.64,expense,Food & Dining,Credit Card
+TXN0579,2025-09-24,ACT Fibernet bill,1347.39,expense,Bills & Utilities,Net Banking
+TXN0585,2025-09-24,Physiotherapy session,850.61,expense,Healthcare,Credit Card
+TXN0533,2025-09-26,Swiggy order - biryani,750.4,expense,Food & Dining,Cash
+TXN0570,2025-09-26,Ola cab - airport,703.91,expense,Transportation,Cash
+TXN0594,2025-09-26,IndiGo flight ticket,13151.08,expense,Travel,Net Banking
+TXN0587,2025-09-27,Spotify Premium,2425.79,expense,Entertainment,Credit Card
+TXN0574,2025-09-28,Auto rickshaw,463.47,expense,Transportation,Debit Card
+TXN0559,2025-09-30,Meesho order,3373.88,expense,Shopping,Net Banking
+TXN0582,2025-09-30,PharmEasy order,3461.76,expense,Healthcare,Cash
+TXN0583,2025-09-30,PharmEasy order,675.34,expense,Healthcare,Credit Card
+TXN0586,2025-09-30,YouTube Premium,2135.63,expense,Entertainment,Debit Card
+TXN0595,2025-10-01,Monthly Salary - Company,48527.78,income,Income,NEFT
+TXN0642,2025-10-01,Petrol - HP Petrol Pump,1860.89,expense,Transportation,Debit Card
+TXN0651,2025-10-01,Gas cylinder booking,384.35,expense,Bills & Utilities,Net Banking
+TXN0655,2025-10-01,Apollo Pharmacy medicines,3330.49,expense,Healthcare,Cash
+TXN0656,2025-10-01,Apollo Pharmacy medicines,2803.05,expense,Healthcare,Cash
+TXN0598,2025-10-02,Food court lunch,744.58,expense,Food & Dining,Debit Card
+TXN0630,2025-10-02,Nykaa cosmetics,8233.12,expense,Shopping,Net Banking
+TXN0641,2025-10-02,Parking fee - mall,802.92,expense,Transportation,FASTag
+TXN0613,2025-10-03,McDonald's drive-through,379.92,expense,Food & Dining,UPI
+TXN0664,2025-10-03,Library membership,12455.32,expense,Education,UPI
+TXN0665,2025-10-03,Books & stationery,11441.87,expense,Education,Credit Card
+TXN0659,2025-10-04,Cricket match tickets,410.35,expense,Entertainment,Credit Card
+TXN0610,2025-10-05,Starbucks coffee,617.48,expense,Food & Dining,Credit Card
+TXN0619,2025-10-05,Weekly provisions,1265.65,expense,Groceries,Debit Card
+TXN0667,2025-10-06,Coursera subscription,339.86,expense,Education,Credit Card
+TXN0643,2025-10-07,Diesel refill,759.12,expense,Transportation,FASTag
+TXN0607,2025-10-08,Swiggy order - biryani,906.09,expense,Food & Dining,UPI
+TXN0620,2025-10-09,BigBasket order,1623.39,expense,Groceries,Debit Card
+TXN0628,2025-10-09,Ajio fashion,6812.49,expense,Shopping,UPI
+TXN0661,2025-10-09,BookMyShow event,2464.12,expense,Entertainment,Credit Card
+TXN0617,2025-10-10,Haldiram's snacks,664.21,expense,Food & Dining,Debit Card
+TXN0624,2025-10-10,Local kirana store,1606.43,expense,Groceries,Debit Card
+TXN0657,2025-10-10,Netflix subscription,896.75,expense,Entertainment,Debit Card
+TXN0623,2025-10-11,Milk and dairy,2814.57,expense,Groceries,Cash
+TXN0633,2025-10-11,Nykaa cosmetics,7518.62,expense,Shopping,Credit Card
+TXN0640,2025-10-11,Rapido bike ride,1911.22,expense,Transportation,Cash
+TXN0605,2025-10-12,McDonald's drive-through,825.82,expense,Food & Dining,Credit Card
+TXN0622,2025-10-12,Weekly provisions,450.03,expense,Groceries,Cash
+TXN0638,2025-10-12,FASTag toll payment,791.8,expense,Transportation,Debit Card
+TXN0606,2025-10-13,Chinese restaurant,1192.27,expense,Food & Dining,Credit Card
+TXN0615,2025-10-13,Chai tapri,919.78,expense,Food & Dining,Credit Card
+TXN0662,2025-10-13,YouTube Premium,1181.85,expense,Entertainment,Debit Card
+TXN0612,2025-10-14,Street food outing,994.24,expense,Food & Dining,UPI
+TXN0621,2025-10-14,Spencer's supermarket,2303.18,expense,Groceries,Cash
+TXN0596,2025-10-15,Local dhaba lunch,182.36,expense,Food & Dining,UPI
+TXN0608,2025-10-15,South Indian thali,1176.77,expense,Food & Dining,Cash
+TXN0653,2025-10-15,Dental checkup,1171.73,expense,Healthcare,UPI
+TXN0600,2025-10-16,Zomato pizza delivery,1185.03,expense,Food & Dining,Debit Card
+TXN0625,2025-10-16,Reliance Fresh,2714.13,expense,Groceries,Debit Card
+TXN0666,2025-10-16,Udemy course purchase,5782.11,expense,Education,UPI
+TXN0599,2025-10-18,Zomato pizza delivery,876.42,expense,Food & Dining,UPI
+TXN0627,2025-10-18,Local kirana store,3227.17,expense,Groceries,Cash
+TXN0636,2025-10-18,Diesel refill,2290.36,expense,Transportation,Cash
+TXN0637,2025-10-18,Auto rickshaw,970.23,expense,Transportation,Cash
+TXN0649,2025-10-18,LPG gas bill,3684.22,expense,Bills & Utilities,Net Banking
+TXN0660,2025-10-20,Cricket match tickets,798.81,expense,Entertainment,UPI
+TXN0614,2025-10-22,Zomato pizza delivery,602.16,expense,Food & Dining,Credit Card
+TXN0618,2025-10-22,Zepto quick delivery,2213.34,expense,Groceries,Debit Card
+TXN0632,2025-10-22,H&M purchase,11082.9,expense,Shopping,Debit Card
+TXN0654,2025-10-22,Physiotherapy session,3127.39,expense,Healthcare,Credit Card
+TXN0658,2025-10-22,BookMyShow event,2458.16,expense,Entertainment,Credit Card
+TXN0626,2025-10-23,DMart supermarket,1262.36,expense,Groceries,Cash
+TXN0635,2025-10-23,Rapido bike ride,1748.2,expense,Transportation,Debit Card
+TXN0652,2025-10-23,Doctor consultation fee,1234.02,expense,Healthcare,UPI
+TXN0663,2025-10-23,Spotify Premium,805.3,expense,Entertainment,UPI
+TXN0611,2025-10-24,McDonald's drive-through,1132.4,expense,Food & Dining,UPI
+TXN0634,2025-10-24,Flipkart order,2654.09,expense,Shopping,Net Banking
+TXN0647,2025-10-24,Namma Yatri ride,1168.25,expense,Transportation,Cash
+TXN0648,2025-10-24,FASTag toll payment,448.09,expense,Transportation,Debit Card
+TXN0601,2025-10-25,KFC bucket meal,561.58,expense,Food & Dining,Cash
+TXN0616,2025-10-25,Zomato pizza delivery,702.94,expense,Food & Dining,Credit Card
+TXN0639,2025-10-26,Local train ticket,1181.03,expense,Transportation,Debit Card
+TXN0597,2025-10-27,Swiggy order - biryani,547.62,expense,Food & Dining,Credit Card
+TXN0609,2025-10-27,Haldiram's snacks,694.49,expense,Food & Dining,Credit Card
+TXN0644,2025-10-27,Rapido bike ride,968.2,expense,Transportation,Debit Card
+TXN0646,2025-10-27,Bus pass renewal,665.6,expense,Transportation,Debit Card
+TXN0650,2025-10-27,Water bill payment,2190.99,expense,Bills & Utilities,Auto-debit
+TXN0629,2025-10-28,Lifestyle store,10203.11,expense,Shopping,Credit Card
+TXN0631,2025-10-28,Flipkart order,9393.14,expense,Shopping,Debit Card
+TXN0602,2025-10-29,Barbeque Nation dinner,524.42,expense,Food & Dining,Cash
+TXN0603,2025-10-30,Barbeque Nation dinner,1059.19,expense,Food & Dining,Cash
+TXN0604,2025-10-31,South Indian thali,206.67,expense,Food & Dining,Credit Card
+TXN0645,2025-10-31,Auto rickshaw,1390.09,expense,Transportation,Cash
+TXN0668,2025-11-01,Monthly Salary - Company,50579.63,income,Income,NEFT
+TXN0690,2025-11-03,Zepto quick delivery,630.54,expense,Groceries,UPI
+TXN0713,2025-11-03,Bus pass renewal,1979.02,expense,Transportation,Debit Card
+TXN0716,2025-11-03,Water bill payment,2625.09,expense,Bills & Utilities,Net Banking
+TXN0688,2025-11-04,KFC bucket meal,942.25,expense,Food & Dining,UPI
+TXN0698,2025-11-04,Myntra clothing,6942.58,expense,Shopping,UPI
+TXN0720,2025-11-04,Vodafone mobile recharge,602.59,expense,Bills & Utilities,Net Banking
+TXN0677,2025-11-05,Cafe Coffee Day,936.06,expense,Food & Dining,Debit Card
+TXN0685,2025-11-05,Barbeque Nation dinner,208.6,expense,Food & Dining,Credit Card
+TXN0711,2025-11-05,Auto rickshaw,1692.25,expense,Transportation,Cash
+TXN0694,2025-11-06,DMart supermarket,2493.01,expense,Groceries,Credit Card
+TXN0702,2025-11-06,IRCTC train ticket,1213.15,expense,Transportation,Cash
+TXN0684,2025-11-10,Haldiram's snacks,953.94,expense,Food & Dining,UPI
+TXN0687,2025-11-10,Chai tapri,218.84,expense,Food & Dining,Debit Card
+TXN0709,2025-11-10,BluSmart EV cab,1112.98,expense,Transportation,UPI
+TXN0673,2025-11-11,Swiggy order - biryani,1123.07,expense,Food & Dining,Credit Card
+TXN0680,2025-11-11,Swiggy order - biryani,1166.43,expense,Food & Dining,Debit Card
+TXN0686,2025-11-11,Udupi restaurant,918.83,expense,Food & Dining,UPI
+TXN0715,2025-11-12,BSNL landline bill,339.71,expense,Bills & Utilities,Auto-debit
+TXN0717,2025-11-12,Airtel broadband bill,2698.89,expense,Bills & Utilities,Auto-debit
+TXN0724,2025-11-12,Apollo Pharmacy medicines,2552.28,expense,Healthcare,Credit Card
+TXN0682,2025-11-13,Food court lunch,504.28,expense,Food & Dining,Credit Card
+TXN0678,2025-11-14,Haldiram's snacks,177.99,expense,Food & Dining,UPI
+TXN0692,2025-11-14,Local kirana store,339.49,expense,Groceries,UPI
+TXN0700,2025-11-14,BluSmart EV cab,1117.35,expense,Transportation,FASTag
+TXN0681,2025-11-15,Subway sandwich,966.23,expense,Food & Dining,Credit Card
+TXN0708,2025-11-15,Local train ticket,2383.92,expense,Transportation,FASTag
+TXN0722,2025-11-15,Dental checkup,2918.65,expense,Healthcare,Credit Card
+TXN0695,2025-11-16,DMart supermarket,1263.62,expense,Groceries,UPI
+TXN0696,2025-11-16,Sports gear,5725.98,expense,Shopping,Credit Card
+TXN0676,2025-11-18,Canteen dinner,851.2,expense,Food & Dining,Cash
+TXN0689,2025-11-18,Spencer's supermarket,1679.13,expense,Groceries,Cash
+TXN0693,2025-11-18,Reliance Fresh,2619.5,expense,Groceries,Debit Card
+TXN0707,2025-11-18,Metro card recharge,1492.8,expense,Transportation,UPI
+TXN0714,2025-11-18,FASTag toll payment,1468.14,expense,Transportation,Debit Card
+TXN0721,2025-11-18,Physiotherapy session,3759.58,expense,Healthcare,Cash
+TXN0672,2025-11-19,Zomato pizza delivery,1091.26,expense,Food & Dining,Credit Card
+TXN0675,2025-11-19,Haldiram's snacks,443.22,expense,Food & Dining,Cash
+TXN0718,2025-11-19,LPG gas bill,2528.18,expense,Bills & Utilities,Auto-debit
+TXN0701,2025-11-20,Local train ticket,772.08,expense,Transportation,FASTag
+TXN0683,2025-11-22,Barbeque Nation dinner,854.07,expense,Food & Dining,UPI
+TXN0712,2025-11-22,Metro card recharge,627.79,expense,Transportation,Debit Card
+TXN0723,2025-11-22,Physiotherapy session,2369.01,expense,Healthcare,Cash
+TXN0703,2025-11-23,Auto rickshaw,749.88,expense,Transportation,Debit Card
+TXN0697,2025-11-24,Electronics - Croma,5915.75,expense,Shopping,Net Banking
+TXN0726,2025-11-24,Disney+ Hotstar,2510.82,expense,Entertainment,UPI
+TXN0674,2025-11-25,Barbeque Nation dinner,754.0,expense,Food & Dining,UPI
+TXN0679,2025-11-25,Street food outing,487.84,expense,Food & Dining,Cash
+TXN0719,2025-11-25,Society maintenance,2657.63,expense,Bills & Utilities,UPI
+TXN0691,2025-11-26,Zepto quick delivery,2210.16,expense,Groceries,Cash
+TXN0704,2025-11-26,Rapido bike ride,2420.37,expense,Transportation,Cash
+TXN0710,2025-11-26,Namma Yatri ride,2052.84,expense,Transportation,Debit Card
+TXN0727,2025-11-26,Byju's subscription,5277.39,expense,Education,UPI
+TXN0699,2025-11-27,Zara outfit,398.65,expense,Shopping,Net Banking
+TXN0705,2025-11-27,Namma Yatri ride,958.86,expense,Transportation,Debit Card
+TXN0670,2025-11-28,Momo stall,348.33,expense,Food & Dining,Cash
+TXN0669,2025-11-29,Freelance project payment,10281.59,income,Income,NEFT
+TXN0671,2025-11-30,Cafe Coffee Day,412.78,expense,Food & Dining,Debit Card
+TXN0706,2025-11-30,Parking fee - mall,931.59,expense,Transportation,FASTag
+TXN0725,2025-11-30,Amazon Prime Video,956.75,expense,Entertainment,Credit Card
+TXN0728,2025-12-01,Monthly Salary - Company,49904.65,income,Income,NEFT
+TXN0762,2025-12-02,Shoppers Stop,2522.13,expense,Shopping,UPI
+TXN0729,2025-12-03,Local dhaba lunch,608.64,expense,Food & Dining,UPI
+TXN0754,2025-12-03,Fresh fruits purchase,1863.84,expense,Groceries,UPI
+TXN0783,2025-12-03,BSNL landline bill,1561.25,expense,Bills & Utilities,UPI
+TXN0730,2025-12-04,Swiggy order - biryani,995.0,expense,Food & Dining,Debit Card
+TXN0761,2025-12-04,Books purchase,7920.25,expense,Shopping,Debit Card
+TXN0764,2025-12-04,Sports gear,6949.27,expense,Shopping,Debit Card
+TXN0750,2025-12-05,Domino's online order,648.81,expense,Food & Dining,Debit Card
+TXN0767,2025-12-05,Namma Yatri ride,439.97,expense,Transportation,FASTag
+TXN0774,2025-12-05,Rapido bike ride,1762.52,expense,Transportation,FASTag
+TXN0746,2025-12-06,Udupi restaurant,449.81,expense,Food & Dining,Credit Card
+TXN0752,2025-12-07,Local kirana store,1850.75,expense,Groceries,Cash
+TXN0755,2025-12-08,More Supermarket,2846.82,expense,Groceries,UPI
+TXN0773,2025-12-09,BluSmart EV cab,2299.36,expense,Transportation,FASTag
+TXN0779,2025-12-09,Society maintenance,2159.33,expense,Bills & Utilities,UPI
+TXN0785,2025-12-10,INOX cinema,1036.31,expense,Entertainment,Debit Card
+TXN0745,2025-12-11,McDonald's drive-through,845.88,expense,Food & Dining,Credit Card
+TXN0780,2025-12-11,ACT Fibernet bill,3810.97,expense,Bills & Utilities,Net Banking
+TXN0737,2025-12-13,Swiggy order - biryani,759.58,expense,Food & Dining,Credit Card
+TXN0777,2025-12-13,Bus pass renewal,1580.7,expense,Transportation,UPI
+TXN0735,2025-12-14,Barbeque Nation dinner,811.72,expense,Food & Dining,UPI
+TXN0747,2025-12-14,Street food outing,671.69,expense,Food & Dining,Credit Card
+TXN0748,2025-12-14,Domino's online order,740.79,expense,Food & Dining,Cash
+TXN0740,2025-12-15,McDonald's drive-through,472.06,expense,Food & Dining,Debit Card
+TXN0760,2025-12-15,H&M purchase,6128.03,expense,Shopping,Debit Card
+TXN0741,2025-12-16,Chinese restaurant,844.36,expense,Food & Dining,Debit Card
+TXN0753,2025-12-16,Local kirana store,1609.23,expense,Groceries,Cash
+TXN0732,2025-12-18,Domino's online order,677.27,expense,Food & Dining,Debit Card
+TXN0739,2025-12-18,Domino's online order,983.46,expense,Food & Dining,Debit Card
+TXN0756,2025-12-18,More Supermarket,1179.53,expense,Groceries,Debit Card
+TXN0757,2025-12-19,Milk and dairy,2798.37,expense,Groceries,Cash
+TXN0758,2025-12-19,Flipkart order,4184.29,expense,Shopping,UPI
+TXN0765,2025-12-19,Local train ticket,2032.44,expense,Transportation,Cash
+TXN0776,2025-12-19,Auto rickshaw,1238.96,expense,Transportation,Cash
+TXN0786,2025-12-19,YouTube Premium,1776.01,expense,Entertainment,UPI
+TXN0742,2025-12-20,Barbeque Nation dinner,764.73,expense,Food & Dining,UPI
+TXN0751,2025-12-20,Zomato pizza delivery,1029.34,expense,Food & Dining,Debit Card
+TXN0766,2025-12-20,Auto rickshaw,2156.79,expense,Transportation,Debit Card
+TXN0769,2025-12-20,FASTag toll payment,1344.73,expense,Transportation,FASTag
+TXN0734,2025-12-21,Domino's online order,981.58,expense,Food & Dining,Credit Card
+TXN0782,2025-12-21,LPG gas bill,3894.17,expense,Bills & Utilities,Auto-debit
+TXN0731,2025-12-22,Domino's online order,819.81,expense,Food & Dining,Credit Card
+TXN0744,2025-12-23,Local dhaba lunch,998.84,expense,Food & Dining,UPI
+TXN0749,2025-12-23,Domino's online order,806.34,expense,Food & Dining,Credit Card
+TXN0770,2025-12-23,Petrol - HP Petrol Pump,829.42,expense,Transportation,Cash
+TXN0738,2025-12-25,Cafe Coffee Day,342.25,expense,Food & Dining,UPI
+TXN0772,2025-12-25,Namma Yatri ride,364.9,expense,Transportation,Debit Card
+TXN0787,2025-12-25,Netflix subscription,2693.05,expense,Entertainment,Credit Card
+TXN0768,2025-12-26,Uber ride to office,2039.42,expense,Transportation,Cash
+TXN0788,2025-12-26,YouTube Premium,388.77,expense,Entertainment,Credit Card
+TXN0759,2025-12-27,Lifestyle store,6245.88,expense,Shopping,Credit Card
+TXN0763,2025-12-27,Flipkart order,2918.9,expense,Shopping,Net Banking
+TXN0775,2025-12-27,Rapido bike ride,1787.15,expense,Transportation,Debit Card
+TXN0784,2025-12-27,Diagnostic lab test,4843.83,expense,Healthcare,Credit Card
+TXN0743,2025-12-28,Chai tapri,495.76,expense,Food & Dining,Credit Card
+TXN0781,2025-12-28,Water bill payment,3501.85,expense,Bills & Utilities,Auto-debit
+TXN0736,2025-12-29,Hotel Saravana Bhavan,916.38,expense,Food & Dining,Cash
+TXN0778,2025-12-29,Namma Yatri ride,1595.06,expense,Transportation,UPI
+TXN0733,2025-12-31,Chai tapri,724.64,expense,Food & Dining,Credit Card
+TXN0771,2025-12-31,BluSmart EV cab,1444.66,expense,Transportation,UPI
