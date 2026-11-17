@@ -7,6 +7,13 @@ An intelligent personal finance management application that helps users track ex
 **FinSight AI** is a smart financial analytics application designed to simplify personal expense management. It transforms transaction data into meaningful financial insights through interactive dashboards, machine learning-based expense categorization, predictive analytics, and an AI-powered financial assistant.
 
 The application enables users to understand their financial habits, monitor savings, identify spending patterns, and make data-driven financial decisions.
+## 🎥 Project Demo
+
+Watch the FinSight AI application in action!
+
+▶️ **[Watch FinSight AI – Project Demo](https://youtu.be/mq8-TLw6VVA)**
+
+Explore the interactive dashboard, transaction management, machine learning-based expense categorization, expense prediction, and AI Financial Assistant.
 
 ## ✨ Key Features
 
